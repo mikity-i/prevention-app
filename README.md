@@ -1,24 +1,34 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## アプリケーション名
+prevention-app
 
-Things you may want to cover:
+## アプリケーション概要
 
-* Ruby version
+## デプロイしたアプリケーションのURL
 
-* System dependencies
+## テスト用アカウント
+- Basic認証ID　　　　　：
+- Basic認証パスワード　：
+- メールアドレス
+- パスワード
 
-* Configuration
+## 利用方法
 
-* Database creation
+## アプリケーションを作成した背景
 
-* Database initialization
+## 洗い出した要件
+[要件定義](https://docs.google.com/spreadsheets/d/1g7V6knLUzvTQE9fhoLTtV7SrTTOvjKVG1kGsh7Ea6iQ/edit?usp=sharing)
+## 実装した機能についての画像やGIFおよびその説明
 
-* How to run the test suite
+## 実装予定の機能
 
-* Services (job queues, cache servers, search engines, etc.)
+## データベース設計
 
-* Deployment instructions
+## 画面遷移図
 
-* ...
+## 開発環境
+
+## ローカルでの動作方法
+
+## 工夫したポイント
